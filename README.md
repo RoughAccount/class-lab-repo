@@ -15,3 +15,4 @@ This repository is designed for practicing Git workflows, including:
 ## Files in This Repository  
 - **class.md**: Contains the instructions and placeholders for editing.  
 - **README.md**: This file explains the purpose of the repository and usage instructions.  
+This change is made by me for some random purpose
